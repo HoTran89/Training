@@ -1,0 +1,13 @@
+API/packages/
+API/API.Service/obj/
+API/API.Service/bin/
+API/API/bin/
+API/API.Context/obj/
+API/API.Repository.Impl/bin/
+API/API.Context/bin/
+API/API.Repository.Impl/obj/
+API/API.Repository/obj/
+API/API.Service.Impl/bin/
+API/API.Repository/bin/
+API/API.Service.Impl/obj/
+API/API/obj/
